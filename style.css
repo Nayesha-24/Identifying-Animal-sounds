@@ -1,0 +1,36 @@
+body{
+font-family: Bebas Neue ;
+background-color: rgb(205, 243, 237) ;
+color: navy;
+}
+
+.header_div{
+    background-color: rgb(193, 221, 171);
+    color: yellow;
+    font-family: Pacifico ;
+}
+.header_div p {
+    font-family: Pacifico ;
+    font-size: 21px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: Indie Flower ;
+    color: darkred;
+    width: 130px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(207, 71, 162);
+    bottom: 0 ;
+    width: 100% ;
+    background-color: yellow ;
+    text-align : center;
+    text-shadow: 5px 5px 5px rgb(68, 93, 235);
+    font-size: 25px;
+
+}
+
